@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Select one of the two inputs for output
 
 ## How to test
 
-Explain how to use your project
+After setting the input, set the selection signal to select the input.
 
 ## External hardware
 
