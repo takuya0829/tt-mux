@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Select one of the two inputs for output
+Select one of the two inputs for output.
 
 ## How to test
 
